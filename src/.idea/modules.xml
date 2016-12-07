@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MainstreamAndroidFramwork.iml" filepath="$PROJECT_DIR$/MainstreamAndroidFramwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttpsample/okhttpsample.iml" filepath="$PROJECT_DIR$/okhttpsample/okhttpsample.iml" />
+    </modules>
+  </component>
+</project>
